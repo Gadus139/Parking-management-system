@@ -13,9 +13,9 @@ This system manages vehicle parking records.
 parking_records = []
 
 # Functions
-park_vehicle() -	Records vehicle
-view_parked_vehicles() a	Displays records
-main() -	Controls flow
+* park_vehicle() -	Records vehicle
+* view_parked_vehicles() - Displays records
+* main() -	Controls flow
 
 
 # 3. Testing
